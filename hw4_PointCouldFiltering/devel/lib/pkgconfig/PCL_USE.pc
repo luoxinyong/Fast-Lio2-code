@@ -1,0 +1,8 @@
+prefix=/home/dds/Fast-Lio_code/hw4_PointCouldFiltering/devel
+
+Name: PCL_USE
+Description: Description of PCL_USE
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+PCL_USE
+-DCATKIN_DEVEL_PREFIX=/home/dds/Fast-Lio_code/hw4_PointCouldFiltering/devel -DCMAKE_INSTALL_PREFIX=/home/dds/Fast-Lio_code/hw4_PointCouldFiltering/install -G Unix Makefiles

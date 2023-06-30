@@ -1,0 +1,3 @@
+/home/dds/Fast-Lio_code/hw2_BCH_verify/build/CMakeFiles/rebuild_cache.dir
+/home/dds/Fast-Lio_code/hw2_BCH_verify/build/CMakeFiles/edit_cache.dir
+/home/dds/Fast-Lio_code/hw2_BCH_verify/build/CMakeFiles/BCH_verify.dir

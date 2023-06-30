@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/dds/Fast-Lio_code/hw4_imuIntegal/devel -DCMAKE_INSTALL_PREFIX=/home/dds/Fast-Lio_code/hw4_imuIntegal/install -G Unix Makefiles
